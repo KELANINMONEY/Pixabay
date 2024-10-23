@@ -1,0 +1,46 @@
+ol{
+    list-style: none;
+    text-align: end;
+    padding-left: 990px;
+}
+a {
+    padding: 10px;
+    text-decoration: none;
+    color: blue;
+}
+.line1{
+    display: flex;
+    
+}
+.middlepart{
+    font-size: larger;
+    text-align: center;
+}
+.input1{
+    height: 50px;
+    width: 700px;
+    border: none;
+}
+b{
+    font-size: xx-large;
+}
+.section1{
+    background-image: url(/cutie.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 310px;
+}
+body{
+    color: blue;
+}
+.search{
+    height: 80px;
+    width: 800px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+.section3{
+    text-align: left;
+}
