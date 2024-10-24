@@ -46,5 +46,12 @@ body{
 }
 ul{
     list-style: none;
+    padding-right: 10px;
+    border: solid, white, 5px ;
+    border-radius: 5px;
+}
+ul{
+    list-style: none;
     display: flex;
+    
 }
